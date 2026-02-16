@@ -1,52 +1,28 @@
-# Hayk Ghukasyan — Chief of Engineering
+## Hayk Ghukasyan — Chief of Engineering
 
-🏗️ Architect of high-performance backend systems, distributed platforms, and developer infrastructure.
+I build backend systems, platforms, and developer tools.
 
-I design and build systems that operate at scale — from low-level performance tools to production cloud platforms.
+Over the last 20+ years I’ve worked on large production software — from telecom systems to cloud services and high-load platforms. Most of my work focuses on performance, reliability, and long-term maintainability.
 
----
-
-## ⚡ Key Expertise
-
-• Distributed Systems & Microservices  
-• High-Performance Backend Engineering  
-• Node.js / Go / C++ / Cloud Infrastructure  
-• System Design & Architecture  
-• Performance Optimization & Scalability  
-• Developer Platforms & Tooling  
+My main stack includes Node.js, Go, C++, and cloud infrastructure. I enjoy solving hard problems in distributed systems and building tools that other engineers can rely on.
 
 ---
 
-## 🏆 Impact
+### Selected Projects
 
-• 20+ years building large-scale software systems  
-• Architect of multiple production platforms  
-• Led backend teams and infrastructure initiatives  
-• Designed systems handling high traffic and real-time workloads  
-• Founder & creator of developer tools and frameworks  
+• **Koda Format** — experimental data serialization format  
+• **UltraTab** — fast CSV parser using native optimizations  
+• **MemCore** — shared memory engine for low-latency communication  
 
 ---
 
-## 🚀 Flagship Projects
+### Interests
 
-### 🔹 Koda Format — Next-Generation Data Serialization
-High-performance data format designed for modern distributed systems.
-
-### 🔹 UltraTab — SIMD CSV Parser
-Ultra-fast parsing engine built with native performance optimizations.
-
-### 🔹 MemCore — Shared Memory Engine
-Low-latency inter-process communication and caching layer.
+System design, performance engineering, scalable architectures, and developer productivity.
 
 ---
 
-## 🧩 Current Focus
+### Links
 
-Building tools and platforms that improve developer productivity and system performance.
-
----
-
-## 📫 Contact
-
-• 🌐 https://haykghukasyan.com  
-• 💼 LinkedIn(https://www.linkedin.com/in/hayk-ghukasyan-7a384341/)  
+🌐 https://haykghukasyan.com  
+💼 [LinkedIn](https://www.linkedin.com/in/hayk-ghukasyan-7a384341/)
