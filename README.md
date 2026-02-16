@@ -10,7 +10,7 @@ My main stack includes Node.js, Go, C++, and cloud infrastructure. I enjoy solvi
 
 ### Selected Projects
 
-• **Koda Format** — experimental data serialization format  
+• **Koda** — experimental data serialization format  
 • **UltraTab** — fast CSV parser using native optimizations  
 • **MemCore** — shared memory engine for low-latency communication  
 
