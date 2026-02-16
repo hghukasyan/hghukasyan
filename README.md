@@ -19,10 +19,3 @@ My main stack includes Node.js, Go, C++, and cloud infrastructure. I enjoy solvi
 ### Interests
 
 System design, performance engineering, scalable architectures, and developer productivity.
-
----
-
-### Links
-
-🌐 https://haykghukasyan.com  
-💼 [LinkedIn](https://www.linkedin.com/in/hayk-ghukasyan-7a384341/)
