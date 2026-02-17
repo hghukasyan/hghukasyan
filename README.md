@@ -1,21 +1,21 @@
 ## Hayk Ghukasyan — Chief of Engineering
 
-I build backend systems, platforms, and developer tools.
+Chief Engineer specializing in backend platforms, distributed systems, and high-performance software.
 
-Over the last 20+ years I’ve worked on large production software — from telecom systems to cloud services and high-load platforms. Most of my work focuses on performance, reliability, and long-term maintainability.
+Over 20+ years I’ve built production systems for telecom, cloud infrastructure, and high-load services. My work focuses on reliability, performance, scalability, and long-term maintainability — software that runs in production for years, not just demos.
 
-My main stack includes Node.js, Go, Rust, C++, and cloud infrastructure. I enjoy solving hard problems in distributed systems and building tools that other engineers can rely on.
+Core stack includes Node.js, Go, Rust, C++, and cloud technologies. I design systems that handle real traffic, large data volumes, and strict uptime requirements.
 
 ---
 
 ### Selected Projects
 
-• **Koda** — experimental data serialization format  
-• **UltraTab** — fast CSV parser using native optimizations  
-• **MemCore** — shared memory engine for low-latency communication  
+• **Koda** — high-performance data serialization format designed for low-latency systems  
+• **UltraTab** — native CSV/XLSX streaming parser for processing massive files with minimal memory  
+• **MemCore** — shared memory engine for ultra-low-latency inter-process communication  
 
 ---
 
 ### Interests
 
-System design, performance engineering, scalable architectures, and developer productivity.
+Distributed systems, performance engineering, scalable architectures, developer tools, and building software that solves real-world problems.
