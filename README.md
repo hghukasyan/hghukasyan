@@ -10,9 +10,8 @@ Core stack includes Node.js, Go, Rust, C++, and cloud technologies. I design sys
 
 ### Selected Projects
 
-• **Koda** — high-performance data serialization format designed for low-latency systems  
-• **UltraTab** — native CSV/XLSX streaming parser for processing massive files with minimal memory  
-• **MemCore** — shared memory engine for ultra-low-latency inter-process communication  
+- **[PG Circuit](https://pgcircuit.com)** — Native PostgreSQL circuit breaker that protects production databases by detecting risky SQL and making real-time ALLOW, WARN, or BLOCK decisions based on live database conditions.
+- **[WireAgain](https://wireagain.com)** — Infrastructure and networking project focused on reliable connectivity and operational simplicity.
 
 ---
 
